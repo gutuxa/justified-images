@@ -1,0 +1,24 @@
+{
+  "name": "justified-images",
+  "version": "0.0.1",
+  "description": "Justified Images Layout",
+  "main": "src/justified-images.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gutuxa/justified-images.git"
+  },
+  "keywords": [
+    "image",
+    "layout",
+    "grid"
+  ],
+  "author": "Oksana Tugusheva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gutuxa/justified-images/issues"
+  },
+  "homepage": "https://github.com/gutuxa/justified-images#readme"
+}
